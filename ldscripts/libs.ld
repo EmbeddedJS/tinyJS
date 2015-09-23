@@ -1,7 +1,3 @@
- GROUP(
-   libgcc.a
-   libg.a
-   libc.a
-   libm.a
+  GROUP(
    libnosys.a
  )
